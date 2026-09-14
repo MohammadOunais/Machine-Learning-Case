@@ -55,6 +55,4 @@ Topics covered:
 - Confusion matrix analysis
 - Understanding false positives and false negatives
 
-Notebook: `ML_Starter_Case.ipynb`
 
-> This is an educational machine learning demonstration and is not a medical diagnostic tool.
