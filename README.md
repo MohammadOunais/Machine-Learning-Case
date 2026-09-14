@@ -35,3 +35,26 @@ Notebook: `ML_Starter_Case.ipynb`
 - Seaborn
 - scikit-learn
 
+
+### Breast Cancer Diagnosis Prediction
+
+A binary classification case study using the Breast Cancer Wisconsin Diagnostic Dataset from scikit-learn.
+
+The notebook predicts whether a tumor is malignant or benign using 30 numerical measurements of cell nuclei.
+
+Topics covered:
+
+- Loading the Breast Cancer Wisconsin dataset
+- Exploring dataset structure and class balance
+- Checking missing values
+- Feature scaling with StandardScaler
+- Stratified train-test splitting
+- Logistic Regression classification
+- Feature coefficient interpretation
+- Accuracy, precision, recall, and F1-score
+- Confusion matrix analysis
+- Understanding false positives and false negatives
+
+Notebook: `ML_Starter_Case.ipynb`
+
+> This is an educational machine learning demonstration and is not a medical diagnostic tool.
