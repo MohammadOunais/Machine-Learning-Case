@@ -35,10 +35,3 @@ Notebook: `ML_Starter_Case.ipynb`
 - Seaborn
 - scikit-learn
 
-## How to Run
-
-Clone the repository:
-
-```bash
-git clone https://github.com/MohammadOunais/Machine-Learning-Case.git
-cd Machine-Learning-Case
